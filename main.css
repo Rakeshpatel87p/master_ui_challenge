@@ -66,8 +66,8 @@ i {
 	color:white;
 }
 
-.material-icons {
-	font-size: 65px;
+.material-icons.md-48 {
+	font-size: 48px;
 }
 
 .mainNavigationBar {
